@@ -1,0 +1,12 @@
+﻿id;nome;cnpj;servico;categoria;criticidade;dados;volume;acesso;exterior;paises;subcontrata;nuvem;contrato_inicio;contrato_fim;responsavel;ultima_avaliacao;incidentes_12m
+f01;Nuvem Exemplo Ltda;10000001000190;Hospedagem e banco de dados em nuvem;nuvem;alta;sensiveis;alto;leitura;sim;"Estados Unidos; Irlanda";sim;sim;2024-02-01;2027-01-31;Equipe de TI;2026-01-15;0
+f02;Cobranca Segura Exemplo;10000002000134;Cobrança de inadimplentes;cobranca;alta;comuns;alto;leitura;nao;;sim;nao;2025-01-01;2026-11-30;Cobranca;;0
+f03;Callcenter Modelo S.A.;10000003000189;Atendimento ao cliente;callcenter;alta;sensiveis;medio;privilegiado;nao;;sim;nao;2023-06-01;2027-06-01;Operacoes;2025-03-10;2
+f04;Papelaria Exemplo;10000004000123;Material de escritório;outros;baixa;nenhum;baixo;nenhum;nao;;nao;nao;2024-01-01;2027-12-31;Compras;2025-06-01;0
+f05;Consultoria TI Teste;10000005000178;Suporte e infraestrutura de TI;consultoria;media;nenhum;baixo;privilegiado;nao;;nao;nao;2022-01-01;2026-09-30;;2024-06-10;0
+f06;Hospedagem Brasil Exemplo;10000006000112;Servidores dedicados;nuvem;alta;comuns;medio;leitura;nao;;nao;sim;2024-05-01;2028-04-30;Equipe de TI;2026-05-20;0
+f07;SaaS Credito Exemplo;10000007000167;Sistema de análise de crédito (SaaS);software;alta;sensiveis;alto;leitura;nao;;sim;sim;2025-03-01;2028-02-28;Credito;2026-02-02;1
+f08;Marketing Digital Exemplo;10000008000101;Campanhas e e-mail marketing;outros;media;comuns;medio;nenhum;sim;Irlanda;sim;sim;2025-08-01;2026-12-15;Marketing;2025-09-01;0
+f09;Limpeza Exemplo;10000009000156;Limpeza predial;outros;baixa;nenhum;baixo;nenhum;nao;;nao;nao;2024-01-01;2027-01-01;Administrativo;;0
+f10;Processamento Dados Exemplo;11.222.333/0001-99;Processamento de folha e dados cadastrais;processamento;alta;sensiveis;alto;privilegiado;nao;;nao;nao;2021-01-01;2027-01-01;RH;2025-01-20;3
+f11;Hospedagem BR (cadastro duplicado);10000006000112;Servidores dedicados;nuvem;baixa;nenhum;baixo;nenhum;nao;;nao;nao;2024-05-01;2028-04-30;Equipe de TI;2026-05-20;0

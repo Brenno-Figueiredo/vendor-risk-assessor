@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+
+# DADOS REAIS de fornecedores, contratos e avaliações NUNCA vão ao GitHub
+# (os exemplos fictícios ficam só na pasta samples/)
+fornecedores*.csv
+respostas*.csv
+clausulas*.csv
+!samples/*.csv
+pedidos/
+fichas*/
+relatorio*.html
+relatorio*.json
+relatorio*.csv
+plano*.csv
+achados*.csv
+evidencias-auto.json
+feed*.jsonl
